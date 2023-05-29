@@ -1,0 +1,7 @@
+.vercel
+.vercel
+.vscode
+.DS_Store
+.git
+node_modules
+build
